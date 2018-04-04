@@ -1,3 +1,3 @@
 # CustomerProductApp
 
-Change the export path and database file path accordingly in the App.config
+Change the export path and datasource path accordingly in the App.config
